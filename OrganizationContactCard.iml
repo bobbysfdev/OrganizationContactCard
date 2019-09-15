@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="IlluminatedCloud" version="4">
+  <component name="FacetManager">
+    <facet type="IlluminatedCloud" name="Illuminated Cloud">
+      <configuration>
+        <option name="connectionName" value="OrganizationContactCard" />
+        <option name="connectionType" value="SFDX" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/force-app/main/default" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/config" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/holdingDir/applications" />
+      <excludeFolder url="file://$MODULE_DIR$/holdingDir/aura" />
+      <excludeFolder url="file://$MODULE_DIR$/holdingDir/contentassets" />
+      <excludeFolder url="file://$MODULE_DIR$/holdingDir/lwc" />
+      <excludeFolder url="file://$MODULE_DIR$/holdingDir/permissionsets" />
+      <excludeFolder url="file://$MODULE_DIR$/holdingDir/staticresources" />
+      <excludeFolder url="file://$MODULE_DIR$/holdingDir/tabs" />
+    </content>
+    <orderEntry type="jdk" jdkName="IlluminatedCloud (OrganizationContactCard/OrganizationContactCard)" jdkType="IlluminatedCloud" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Organization_Contact_Card</fullName>
+    <active>true</active>
+    <compactLayoutAssignment>Organization_Contact_Card</compactLayoutAssignment>
+    <description>The Organizations email, phone and address. Used for non Household Accounts</description>
+    <label>Organization Contact Card</label>
+</RecordType>
